@@ -12,10 +12,9 @@ This repository contains the source code for the Model Based Reasoning project, 
    - On the level screen, you will see a grid representing the game board.
    - Click on the emitter nodes (marked by circles) to emit light. Each click increases the light intensity.
    - Light will propagate through reflective and opaque nodes based on their properties.
-   - Use the objects on the board to manipulate the direction of light and achieve complete illumination.
 
 3. **Inputting Seed**:
-   - At the bottom of the level screen, you can input a seed value using the keyboard.
+   - At the top of the level screen, you can input a seed value using the keyboard.
    - The seed value determines the random configuration of objects on the board.
    - Press the numeric keys (0-9) to input digits. The seed will update in real-time.
    - Use the backspace key to delete digits if needed.
